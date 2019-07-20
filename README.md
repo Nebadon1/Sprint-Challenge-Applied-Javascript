@@ -30,13 +30,23 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. What is the DOM?
 
+**Stand for Document Object Model, is a object representation of a website** 
+
 2. What is an event?
+
+**Is every interaction a user has with a site, such as clicks, moving the mouse, scrolling the page, pressing a key on the keyboard.**
 
 3. What is an event listener?
 
+**is  an element that listen to specific events and fires a callback when that event occurs.**
+
 4. Why would we convert a NodeList into an Array?
 
+**To be able to use all the fantastic methods that arrays provide us, such .map(), find(), reduce(), and much more. NodeList only allow us to use forEach().**
+
 5. What is a component?
+
+**Is a style of developing using,  HTML, CSS, and JavaScrip in such of way, that can be re-use. The key word in components is reusability**
 
 ### Git Set up
 
