@@ -28,7 +28,7 @@ axios.get(`https://lambda-times-backend.herokuapp.com/topics`)
 
 function tab (objectData){
 const theTab =document.createElement('div')
-theTab.classList.add('class', 'tab');
+theTab.classList.add('tab');
 
 topic.appendChild(theTab)
 
